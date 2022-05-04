@@ -1,5 +1,5 @@
 {
-  "name": "@amittksharma/web-tookit",
+  "name": "@amittksharma/web-toolkit",
   "version": "1.0.0",
   "description": "Collection of exclusively designed web components",
   "main": "dist/cjs/index.js",
