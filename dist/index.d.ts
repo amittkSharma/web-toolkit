@@ -1,5 +1,7 @@
-import React from 'react';
-
-declare const Button: React.FC;
+/// <reference types="react" />
+interface ButtonProps {
+    label: string;
+}
+declare const Button: (props: ButtonProps) => JSX.Element;
 
 export { Button };

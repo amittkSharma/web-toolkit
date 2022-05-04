@@ -1,8 +1,8 @@
 import { Button as Button$1 } from 'antd';
 import React from 'react';
 
-const Button = () => {
-    return React.createElement(Button$1, { title: "SomeButton" });
+const Button = (props) => {
+    return React.createElement(Button$1, { title: props.label });
 };
 
 export { Button };
