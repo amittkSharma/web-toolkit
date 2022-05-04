@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":["../../src/components/button/button.tsx"],"sourcesContent":[null],"names":["AntDdButton"],"mappings":";;;AAOA,MAAM,MAAM,GAAG,CAAC,KAAkB,KAAI;IACpC,OAAO,KAAA,CAAA,aAAA,CAACA,QAAW,EAAC,EAAA,KAAK,EAAE,KAAK,CAAC,KAAK,EAAA,CAAI,CAAC;AAC7C;;;;"}
+{"version":3,"file":"index.js","sources":["../../src/components/button/button.tsx"],"sourcesContent":[null],"names":["Button","props","React","createElement","AntDdButton","title","label"],"mappings":"mDAOA,MAAMA,EAAUC,GACPC,EAAAC,cAACC,EAAY,CAAAC,MAAOJ,EAAMK"}
